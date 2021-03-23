@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          facebook
+          perfil facebook
         </a>
       </header>
     </div>
